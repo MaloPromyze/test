@@ -10,3 +10,7 @@ This tool takes as input:
   - if two rules `recipe-controller.md` and `recipe-unit-test.md` were used, the slugs to send are `["recipe-controller", "recipe-unit-test"]`.
 * An "aiAgent" name. You must indicate "Junie".
 * A "gitRepo" name. You must indicate "MaloPromyze/test".
+
+## Packmind Standards
+
+Follow the coding standards defined in [.packmind/standards-index.md](.packmind/standards-index.md)
