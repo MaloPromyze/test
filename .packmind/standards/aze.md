@@ -3,9 +3,9 @@
 ss
 
 ## Rules
-* qsd
+* now words !
 * sqd
 
 ---
 
-*This standard was automatically generated from version 2.*
+*This standard was automatically generated from version 3.*
