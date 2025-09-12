@@ -4,8 +4,8 @@ ss
 
 ## Rules
 * now words !
-* sqd
+* also there
 
 ---
 
-*This standard was automatically generated from version 3.*
+*This standard was automatically generated from version 4.*
