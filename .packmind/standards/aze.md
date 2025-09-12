@@ -1,6 +1,6 @@
 # aze
 
-New desc
+New desc sdf
 
 ## Rules
 * now words !
@@ -8,4 +8,4 @@ New desc
 
 ---
 
-*This standard was automatically generated from version 5.*
+*This standard was automatically generated from version 6.*
