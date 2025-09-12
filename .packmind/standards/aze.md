@@ -1,6 +1,6 @@
 # aze
 
-ss
+New desc
 
 ## Rules
 * now words !
@@ -8,4 +8,4 @@ ss
 
 ---
 
-*This standard was automatically generated from version 4.*
+*This standard was automatically generated from version 5.*

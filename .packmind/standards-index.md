@@ -4,7 +4,7 @@ This standards index contains all available coding standards that can be used by
 
 ## Available Standards
 
-- [aze](./standards/aze.md) : Establish global naming conventions for variables and functions in JavaScript projects to enhance code readability and maintainability, particularly when collaborating in larger teams.
+- [aze](./standards/aze.md) : Establish global coding conventions for JavaScript projects using ESLint and Prettier to enhance code readability and maintainability across diverse development teams.
 
 
 ---
