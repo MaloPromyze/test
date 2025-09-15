@@ -1,4 +1,4 @@
-# aze
+# azell
 
 New desc sdf
 
@@ -8,4 +8,4 @@ New desc sdf
 
 ---
 
-*This standard was automatically generated from version 6.*
+*This standard was automatically generated from version 7.*
