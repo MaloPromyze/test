@@ -1,19 +1,14 @@
-## Packmind Standards
+---
+applyTo: '**'
+---
 
-Follow the coding standards defined in @.packmind/standards-index.md
-<!-- start: Packmind standards -->
-# Packmind Standards
-
-Follow the coding standards defined in @.packmind/standards-index.md
-<!-- end: Packmind standards -->
-<!-- start: Packmind recipes -->
 # Packmind Recipes
 
 🚨 **MANDATORY STEP** 🚨
 
 Before writing, editing, or generating ANY code:
 
-**ALWAYS READ**: @.packmind/recipes-index.md to see what recipes are available
+**ALWAYS READ**: the available recipes below to see what recipes are available
 
 ## Recipe Usage Rules:
 - **MANDATORY**: Always check the recipes list first
@@ -23,9 +18,12 @@ Before writing, editing, or generating ANY code:
 ## Recipe Usage Tracking:
 When you DO use or apply a relevant Packmind recipe from .packmind/recipes/, you MUST call the 'packmind_notify_recipe_usage' MCP tool with:
 * Recipe slugs array (e.g., ["recipe-name"] from "recipe-name.md")
-* aiAgent: "Claude Code"
+* aiAgent: "GitHub Copilot"
 * gitRepo: "MaloPromyze/test"
 * target: "/"
 
 **Remember: Always check the recipes list first, but only use recipes that actually apply to your specific task.**`
-<!-- end: Packmind recipes -->
+
+## Available Recipes
+
+- [How to Use Packmind Recipes](.packmind/recipes/how-to-use-packmind-recipes.md) : Discover and apply Packmind recipes to implement consistent coding solutions across projects, enhancing efficiency and onboarding for developers.
