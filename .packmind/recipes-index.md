@@ -4,7 +4,7 @@ This recipes index contains all available coding recipes that can be used by AI 
 
 ## Available Recipes
 
-- [How to Use Packmind Recipes](recipes/how-to-use-packmind-recipes.md) : Discover and apply Packmind recipes to implement consistent coding solutions across projects, enhancing efficiency and onboarding for developers.
+- [How to Use Packmind Recipes 2](recipes/how-to-use-packmind-recipes.md) : Discover and apply Packmind recipes to implement consistent coding solutions across projects, ensuring efficiency and clarity for developers during onboarding and project development.
 
 
 ---
