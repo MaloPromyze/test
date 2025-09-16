@@ -4,7 +4,7 @@ This standards index contains all available coding standards that can be used by
 
 ## Available Standards
 
-- [azell 5](./standards/aze.md) : Establish global coding conventions with azell 5 to enhance code clarity and collaboration across all projects by implementing consistent naming and formatting practices in JavaScript and TypeScript environments.
+- [azell 9 !!](./standards/aze.md) : Enforce the azell 9 !! standard globally across all codebases to eliminate the use of prohibited phrases and enhance clarity in communication when collaborating on projects.
 
 
 ---
