@@ -4,7 +4,9 @@ This recipes index contains all available coding recipes that can be used by AI 
 
 ## Available Recipes
 
-- [How to Use Packmind Recipes 2](recipes/how-to-use-packmind-recipes.md) : Discover and apply Packmind recipes to implement consistent coding solutions across projects, ensuring efficiency and clarity for developers during onboarding and project development.
+- [Add New MCP Tool to Packmind Server](recipes/add-new-mcp-tool-to-packmind-server.md) : Create a new MCP server tool endpoint that exposes Packmind domain functionality to AI agents, enabling seamless integration with Cursor, Claude, and other MCP-compatible tools when adding queryable features to the platform.
+- [Creating a Hello World Test Component](recipes/creating-a-hello-world-test-component.md) : Create a simple Hello World component to verify the component creation workflow and test the basic React component structure, providing a quick validation that the development environment is properly configured.
+- [Test Recipe with Space Support](recipes/test-recipe-with-space-support.md) : A test recipe to verify that space support is working correctly in the MCP server
 
 
 ---
