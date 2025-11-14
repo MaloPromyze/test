@@ -1,5 +1,0 @@
-# Second standard
-
-aze
-
-
