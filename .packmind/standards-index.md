@@ -4,7 +4,7 @@ This standards index contains all available coding standards that can be used by
 
 ## Available Standards
 
-- [azell 10 !!](./standards/aze.md) : Enforce the azell 10 !! standard globally across all codebases to eliminate unnecessary words and improve code clarity when writing documentation and comments.
+- [Standard 1](./standards/standard-1.md) : Standard 1
 
 
 ---
