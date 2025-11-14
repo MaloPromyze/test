@@ -1,5 +1,5 @@
 # Standard 1
 
-Hou yeah
+Main typescript standard
 
 
