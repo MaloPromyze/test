@@ -10,13 +10,6 @@ All rules and guidelines defined in these standards are mandatory and must be fo
 
 Failure to follow these standards may lead to inconsistencies, errors, or rework. Treat them as the source of truth for how code should be written, structured, and maintained.
 
-## Standard: Second standard
-
-aze :
-* No rules defined yet.
-
-Full standard is available here for further request: [Second standard](.packmind/standards/second-standard.md)
-
 ## Standard: Standard 1
 
 Hou yeah :

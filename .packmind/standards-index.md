@@ -4,7 +4,6 @@ This standards index contains all available coding standards that can be used by
 
 ## Available Standards
 
-- [Second standard](./standards/second-standard.md) : Second standard
 - [Standard 1](./standards/standard-1.md) : Standard 1
 
 
