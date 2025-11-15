@@ -40,7 +40,9 @@ Failure to follow these standards may lead to inconsistencies, errors, or rework
 ## Standard: API Response Formatting
 
 Standardize API response formats for consistent client-side handling and better developer experience :
-* No rules defined yet.
+* Always return responses in a consistent structure with data, error, and metadata fields
+* Include pagination metadata for list endpoints using a standard pagination structure
+* Use appropriate HTTP status codes and include error details in the response body
 
 Full standard is available here for further request: [API Response Formatting](../.packmind/standards/api-response-formatting.md)
 
@@ -61,4 +63,13 @@ Manage component state efficiently using React hooks and avoid common state mana
 * Use useState for local component state and avoid storing derived values in state
 
 Full standard is available here for further request: [React Component State Management](../.packmind/standards/react-component-state-management.md)
+
+## Standard: TypeScript Async Error Handling
+
+Handle asynchronous operations with proper error handling and type safety in TypeScript applications :
+* Always use async/await instead of .then() chains for better readability and error handling
+* Use typed error classes instead of generic Error instances for better error handling
+* Wrap async operations in try-catch blocks to handle errors gracefully
+
+Full standard is available here for further request: [TypeScript Async Error Handling](../.packmind/standards/typescript-async-error-handling.md)
 <!-- end: Packmind standards -->

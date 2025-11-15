@@ -1,0 +1,9 @@
+---
+applyTo: '**'
+---
+## Standard: TypeScript Async Error Handling
+
+Handle asynchronous operations with proper error handling and type safety in TypeScript applications :
+* No rules defined yet.
+
+Full standard is available here for further request: [TypeScript Async Error Handling](../../.packmind/standards/typescript-async-error-handling.md)
