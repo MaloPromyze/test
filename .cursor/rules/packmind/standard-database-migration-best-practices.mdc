@@ -1,0 +1,9 @@
+---
+alwaysApply: true
+---
+## Standard: Database Migration Best Practices
+
+Write safe and reversible database migrations to maintain data integrity and enable rollback capabilities :
+* No rules defined yet.
+
+Full standard is available here for further request: [Database Migration Best Practices](../../../.packmind/standards/database-migration-best-practices.md)
