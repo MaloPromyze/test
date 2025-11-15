@@ -13,16 +13,14 @@ Failure to follow these standards may lead to inconsistencies, errors, or rework
 ## Standard: 3rd standard
 
 nosense :
-* No rules defined yet.
+* first poi t
 
 Full standard is available here for further request: [3rd standard](.packmind/standards/3rd-standard.md)
 
 ## Standard: Second standard
 
 aze :
-* 3rd space
-* rule 1
-* second
+* No rules defined yet.
 
 Full standard is available here for further request: [Second standard](.packmind/standards/second-standard.md)
 
