@@ -40,9 +40,7 @@ Failure to follow these standards may lead to inconsistencies, errors, or rework
 ## Standard: API Response Formatting
 
 Standardize API response formats for consistent client-side handling and better developer experience :
-* Always return responses in a consistent structure with data, error, and metadata fields
-* Include pagination metadata for list endpoints using a standard pagination structure
-* Use appropriate HTTP status codes and include error details in the response body
+* No rules defined yet.
 
 Full standard is available here for further request: [API Response Formatting](.packmind/standards/api-response-formatting.md)
 
@@ -54,4 +52,13 @@ Write safe and reversible database migrations to maintain data integrity and ena
 * Use transactions for multi-step migrations to ensure atomicity
 
 Full standard is available here for further request: [Database Migration Best Practices](.packmind/standards/database-migration-best-practices.md)
+
+## Standard: React Component State Management
+
+Manage component state efficiently using React hooks and avoid common state management pitfalls :
+* Always include all dependencies in useEffect dependency arrays to prevent stale closures
+* Use useMemo for expensive computations and useCallback for stable function references passed to child components
+* Use useState for local component state and avoid storing derived values in state
+
+Full standard is available here for further request: [React Component State Management](.packmind/standards/react-component-state-management.md)
 <!-- end: Packmind standards -->

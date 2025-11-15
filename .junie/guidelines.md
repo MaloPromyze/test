@@ -16,7 +16,7 @@ Before writing, editing, or generating ANY code:
 ## Recipe Usage Tracking:
 When you DO use or apply a relevant Packmind recipe from .packmind/recipes/, you MUST call the 'packmind_notify_recipe_usage' MCP tool with:
 * Recipe slugs array (e.g., ["recipe-name"] from "recipe-name.md")
-* aiAgent: "Claude Code"
+* aiAgent: "Junie"
 * gitRepo: "repository"
 * target: "/"
 
@@ -42,7 +42,7 @@ Failure to follow these standards may lead to inconsistencies, errors, or rework
 Standardize API response formats for consistent client-side handling and better developer experience :
 * No rules defined yet.
 
-Full standard is available here for further request: [API Response Formatting](.packmind/standards/api-response-formatting.md)
+Full standard is available here for further request: [API Response Formatting](../.packmind/standards/api-response-formatting.md)
 
 ## Standard: Database Migration Best Practices
 
@@ -51,7 +51,7 @@ Write safe and reversible database migrations to maintain data integrity and ena
 * Never modify existing migration files after they have been deployed to production
 * Use transactions for multi-step migrations to ensure atomicity
 
-Full standard is available here for further request: [Database Migration Best Practices](.packmind/standards/database-migration-best-practices.md)
+Full standard is available here for further request: [Database Migration Best Practices](../.packmind/standards/database-migration-best-practices.md)
 
 ## Standard: React Component State Management
 
@@ -60,5 +60,5 @@ Manage component state efficiently using React hooks and avoid common state mana
 * Use useMemo for expensive computations and useCallback for stable function references passed to child components
 * Use useState for local component state and avoid storing derived values in state
 
-Full standard is available here for further request: [React Component State Management](.packmind/standards/react-component-state-management.md)
+Full standard is available here for further request: [React Component State Management](../.packmind/standards/react-component-state-management.md)
 <!-- end: Packmind standards -->

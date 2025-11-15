@@ -1,0 +1,9 @@
+---
+alwaysApply: true
+---
+## Standard: React Component State Management
+
+Manage component state efficiently using React hooks and avoid common state management pitfalls :
+* No rules defined yet.
+
+Full standard is available here for further request: [React Component State Management](../../../.packmind/standards/react-component-state-management.md)
