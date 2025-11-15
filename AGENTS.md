@@ -17,4 +17,14 @@ aze :
 * second
 
 Full standard is available here for further request: [Second standard](.packmind/standards/second-standard.md)
+
+## Standard: Standard 1
+
+Main typescript standard :
+* Always prefix interfaces with I
+* another import rule 22
+* azd
+* Max 3 level nesting
+
+Full standard is available here for further request: [Standard 1](.packmind/standards/standard-1.md)
 <!-- end: Packmind standards -->
