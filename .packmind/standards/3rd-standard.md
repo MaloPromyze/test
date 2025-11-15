@@ -2,6 +2,4 @@
 
 nosense
 
-## Rules
 
-* first poi t
