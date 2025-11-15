@@ -10,12 +10,17 @@ All rules and guidelines defined in these standards are mandatory and must be fo
 
 Failure to follow these standards may lead to inconsistencies, errors, or rework. Treat them as the source of truth for how code should be written, structured, and maintained.
 
+## Standard: 3rd standard
+
+nosense :
+* first poi t
+
+Full standard is available here for further request: [3rd standard](.packmind/standards/3rd-standard.md)
+
 ## Standard: Second standard
 
 aze :
-* 3rd space
-* rule 1
-* second
+* No rules defined yet.
 
 Full standard is available here for further request: [Second standard](.packmind/standards/second-standard.md)
 
