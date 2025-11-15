@@ -1,37 +1,30 @@
 
-<!-- start: Packmind standards -->
-# Packmind Standards
+<!-- start: Packmind recipes -->
+# Packmind Recipes
 
-Before starting your work, make sure to review the coding standards relevant to your current task.
+🚨 **MANDATORY STEP** 🚨
 
-Always consult the sections that apply to the technology, framework, or type of contribution you are working on.
+Before writing, editing, or generating ANY code:
 
-All rules and guidelines defined in these standards are mandatory and must be followed consistently.
+**ALWAYS READ**: the available recipes below to see what recipes are available
 
-Failure to follow these standards may lead to inconsistencies, errors, or rework. Treat them as the source of truth for how code should be written, structured, and maintained.
+## Recipe Usage Rules:
+- **MANDATORY**: Always check the recipes list first
+- **CONDITIONAL**: Only read/use individual recipes if they are relevant to your task
+- **OPTIONAL**: If no recipes are relevant, proceed without using any
 
-## Standard: 3rd standard
+## Recipe Usage Tracking:
+When you DO use or apply a relevant Packmind recipe from .packmind/recipes/, you MUST call the 'packmind_notify_recipe_usage' MCP tool with:
+* Recipe slugs array (e.g., ["recipe-name"] from "recipe-name.md")
+* aiAgent: "AGENTS.md"
+* gitRepo: "MaloPromyze/test"
+* target: "/"
 
-nosense :
-* first poi t
+**Remember: Always check the recipes list first, but only use recipes that actually apply to your specific task.**`
 
-Full standard is available here for further request: [3rd standard](.packmind/standards/3rd-standard.md)
+## Available recipes
 
-## Standard: Second standard
-
-aze :
-* 3rd space
-* rule 1
-* second
-
-Full standard is available here for further request: [Second standard](.packmind/standards/second-standard.md)
-
-## Standard: Standard 1
-
-Main typescript standard :
-* Always prefix interfaces with I
-* another import rule 22
-* Max 3 level nesting
-
-Full standard is available here for further request: [Standard 1](.packmind/standards/standard-1.md)
-<!-- end: Packmind standards -->
+* [Create GraphQL Resolver with DataLoader](.packmind/recipes/create-graphql-resolver-with-dataloader.md): Implement a GraphQL resolver using DataLoader to batch and cache database queries, reducing N+1 query problems and improving API performance significantly.
+* [Implement JWT Authentication Middleware](.packmind/recipes/implement-jwt-authentication-middleware.md): Create a JWT authentication middleware to secure API endpoints by validating tokens and extracting user information from requests, ensuring only authenticated users can access protected routes.
+* [Setup Docker Compose for Development Environment](.packmind/recipes/setup-docker-compose-for-development-environment.md): Configure Docker Compose to set up a complete development environment with database, cache, and application services, enabling consistent local development across team members.
+<!-- end: Packmind recipes -->
