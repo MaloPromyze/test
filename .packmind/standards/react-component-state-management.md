@@ -7,3 +7,4 @@ This standard establishes patterns for managing state in React components using 
 * Use useState for local component state and avoid storing derived values in state
 * Always include all dependencies in useEffect dependency arrays to prevent stale closures
 * Use useMemo for expensive computations and useCallback for stable function references passed to child components
+* bonus
