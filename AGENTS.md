@@ -13,6 +13,7 @@ Failure to follow these standards may lead to inconsistencies, errors, or rework
 ## Standard: Second standard
 
 aze :
+* 3rd space
 * rule 1
 * second
 
@@ -23,7 +24,6 @@ Full standard is available here for further request: [Second standard](.packmind
 Main typescript standard :
 * Always prefix interfaces with I
 * another import rule 22
-* azd
 * Max 3 level nesting
 
 Full standard is available here for further request: [Standard 1](.packmind/standards/standard-1.md)
