@@ -24,7 +24,7 @@ When you DO use or apply a relevant Packmind recipe from .packmind/recipes/, you
 
 ## Available recipes
 
-
+* [Set Up New Domain Package in Monorepo](../../.packmind/recipes/set-up-new-domain-package-in-monorepo.md): Create a new domain package following DDD architecture principles in the Packmind monorepo structure
 <!-- end: Packmind recipes -->
 <!-- start: Packmind standards -->
 # Packmind Standards

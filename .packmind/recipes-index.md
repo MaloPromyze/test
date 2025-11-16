@@ -4,7 +4,7 @@ This recipes index contains all available coding recipes that can be used by AI 
 
 ## Available Recipes
 
-No recipes available.
+- [Set Up New Domain Package in Monorepo](recipes/set-up-new-domain-package-in-monorepo.md) : Create a new domain package following DDD architecture principles in the Packmind monorepo structure
 
 
 ---
