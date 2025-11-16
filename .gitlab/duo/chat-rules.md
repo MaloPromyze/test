@@ -1,7 +1,3 @@
-This is my super agentic rules
-always be yourself
-
-and be kind
 
 <!-- start: Packmind standards -->
 # Packmind Standards
@@ -21,5 +17,5 @@ This standard defines guidelines for creating database migrations that are safe,
 * Never modify existing migration files after they have been deployed to production v2
 * Use transactions for multi-step migrations to ensure atomicity
 
-Full standard is available here for further request: [Database Migration Best Practices](.packmind/standards/database-migration-best-practices.md)
+Full standard is available here for further request: [Database Migration Best Practices](../../.packmind/standards/database-migration-best-practices.md)
 <!-- end: Packmind standards -->
