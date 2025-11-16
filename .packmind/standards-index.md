@@ -5,6 +5,7 @@ This standards index contains all available coding standards that can be used by
 ## Available Standards
 
 - [API Response Formatting](./standards/api-response-formatting.md) : Standardize API response formats for consistent client-side handling and better developer experience
+- [Database Migration Best Practices](./standards/database-migration-best-practices.md) : Database Migration Best Practices
 
 
 ---
