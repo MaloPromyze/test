@@ -28,3 +28,5 @@ When you DO use or apply a relevant Packmind recipe from .packmind/recipes/, you
 
 - [Create React Form with Validation](.packmind/recipes/create-react-form-with-validation.md) : Build a React form component with client-side validation and error handling using modern React patterns
 - [Implement Authentication Middleware](.packmind/recipes/implement-authentication-middleware.md) : Create authentication middleware to protect API routes and validate user sessions
+- [Set Up New Domain Package in Monorepo](.packmind/recipes/set-up-new-domain-package-in-monorepo.md) : Create a new domain package following DDD architecture principles in the Packmind monorepo structure
+- [Write Integration Test for API Endpoint](.packmind/recipes/write-integration-test-for-api-endpoint.md) : Create comprehensive integration tests for API endpoints that verify request handling, database interactions, and response formatting
