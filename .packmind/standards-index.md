@@ -1,0 +1,13 @@
+# Packmind Standards Index
+
+This standards index contains all available coding standards that can be used by AI agents (like Cursor, Claude Code, GitHub Copilot) to find and apply proven practices in coding tasks.
+
+## Available Standards
+
+- [Database Migration Best Practices](./standards/database-migration-best-practices.md) : Database Migration Best Practices
+- [React Component State Management](./standards/react-component-state-management.md) : React Component State Management
+
+
+---
+
+*This standards index was automatically generated from deployed standard versions.*
