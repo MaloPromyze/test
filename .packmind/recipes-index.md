@@ -4,7 +4,8 @@ This recipes index contains all available coding recipes that can be used by AI 
 
 ## Available Recipes
 
-No recipes available.
+- [Create React Form with Validation](recipes/create-react-form-with-validation.md) : Build a React form component with client-side validation and error handling using modern React patterns
+- [Implement Authentication Middleware](recipes/implement-authentication-middleware.md) : Create authentication middleware to protect API routes and validate user sessions
 
 
 ---
