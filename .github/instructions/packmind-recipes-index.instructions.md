@@ -26,7 +26,6 @@ When you DO use or apply a relevant Packmind recipe from .packmind/recipes/, you
 
 ## Available recipes
 
-- [Apple Recipe](.packmind/recipes/apple-recipe.md) : Recipe for testing sorting.
-- [Implementing Feature Flags](.packmind/recipes/implementing-feature-flags.md) : Implement feature flags to enable safe deployment of new features, A/B testing, and gradual rollouts while maintaining code stability and allowing instant rollback capabilities.
-- [Mango Recipe](.packmind/recipes/mango-recipe.md) : Recipe for testing sorting.
-- [Zebra Recipe](.packmind/recipes/zebra-recipe.md) : Recipe for testing sorting.
+- [Create New Package in Monorepo](.packmind/recipes/create-new-package-in-monorepo.md) : Create a new buildable TypeScript package in the Packmind monorepo using Nx tools to establish a shared library for code reuse across applications and packages when setting up common utilities or implementing domain-specific logic.
+- [Cross-Domain Integration with Port/Adapter Pattern](.packmind/recipes/cross-domain-integration-with-portadapter-pattern.md) : Integrate a consumer domain with a provider domain using lazy dependency injection through the Port/Adapter pattern to enable cross-domain operations while avoiding circular dependencies and maintaining loose coupling.
+- [How to Write TypeORM Migrations in Packmind](.packmind/recipes/how-to-write-typeorm-migrations-in-packmind.md) : Write TypeORM migrations in the Packmind monorepo to manage database schema changes effectively while ensuring proper logging and rollback capabilities.

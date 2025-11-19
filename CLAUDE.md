@@ -15,7 +15,7 @@ Before writing, editing, or generating ANY code:
 ## Recipe Usage Tracking:
 When you DO use or apply a relevant Packmind recipe from .packmind/recipes/, you MUST call the 'packmind_notify_recipe_usage' MCP tool with:
 * Recipe slugs array (e.g., ["recipe-name"] from "recipe-name.md")
-* aiAgent: "AGENTS.md"
+* aiAgent: "Claude Code"
 * gitRepo: "repository"
 * target: "/"
 
