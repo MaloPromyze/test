@@ -7,6 +7,7 @@ This recipes index contains all available coding recipes that can be used by AI 
 - [Apple Recipe](recipes/apple-recipe.md) : Recipe for testing sorting.
 - [Implementing Feature Flags](recipes/implementing-feature-flags.md) : Implement feature flags to enable safe deployment of new features, A/B testing, and gradual rollouts while maintaining code stability and allowing instant rollback capabilities.
 - [Mango Recipe](recipes/mango-recipe.md) : Recipe for testing sorting.
+- [Zebra Recipe](recipes/zebra-recipe.md) : Recipe for testing sorting.
 
 
 ---

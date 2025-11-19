@@ -29,3 +29,4 @@ When you DO use or apply a relevant Packmind recipe from .packmind/recipes/, you
 - [Apple Recipe](.packmind/recipes/apple-recipe.md) : Recipe for testing sorting.
 - [Implementing Feature Flags](.packmind/recipes/implementing-feature-flags.md) : Implement feature flags to enable safe deployment of new features, A/B testing, and gradual rollouts while maintaining code stability and allowing instant rollback capabilities.
 - [Mango Recipe](.packmind/recipes/mango-recipe.md) : Recipe for testing sorting.
+- [Zebra Recipe](.packmind/recipes/zebra-recipe.md) : Recipe for testing sorting.

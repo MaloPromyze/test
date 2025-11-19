@@ -1,0 +1,9 @@
+---
+applyTo: '**'
+---
+## Standard: Zebra Pattern
+
+Use zebra patterns for testing. :
+* Always use zebras
+
+Full standard is available here for further request: [Zebra Pattern](../../.packmind/standards/zebra-pattern.md)

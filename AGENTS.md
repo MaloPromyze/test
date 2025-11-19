@@ -26,6 +26,7 @@ When you DO use or apply a relevant Packmind recipe from .packmind/recipes/, you
 * [Apple Recipe](.packmind/recipes/apple-recipe.md): Recipe for testing sorting.
 * [Implementing Feature Flags](.packmind/recipes/implementing-feature-flags.md): Implement feature flags to enable safe deployment of new features, A/B testing, and gradual rollouts while maintaining code stability and allowing instant rollback capabilities.
 * [Mango Recipe](.packmind/recipes/mango-recipe.md): Recipe for testing sorting.
+* [Zebra Recipe](.packmind/recipes/zebra-recipe.md): Recipe for testing sorting.
 <!-- end: Packmind recipes -->
 <!-- start: Packmind standards -->
 # Packmind Standards
@@ -54,4 +55,11 @@ Use mangos for testing. :
 * Always use mangos
 
 Full standard is available here for further request: [Mango Best Practices](.packmind/standards/mango-best-practices.md)
+
+## Standard: Zebra Pattern
+
+Use zebra patterns for testing. :
+* Always use zebras
+
+Full standard is available here for further request: [Zebra Pattern](.packmind/standards/zebra-pattern.md)
 <!-- end: Packmind standards -->
