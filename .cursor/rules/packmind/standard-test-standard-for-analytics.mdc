@@ -1,0 +1,9 @@
+---
+alwaysApply: true
+---
+## Standard: Test Standard for Analytics
+
+Test standard for verifying analytics events :
+* Use descriptive variable names
+
+Full standard is available here for further request: [Test Standard for Analytics](../../../.packmind/standards/test-standard-for-analytics.md)
